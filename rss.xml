@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Galería de Arte Virtual</title>
+        <link>https://aminebel20.github.io/</link>
+        <description>Explora una colección de arte única en nuestra galería virtual.</description>
+        <language>es</language>
+
+        <item>
+            <title>Inicio</title>
+            <link>https://aminebel20.github.io/index.html#inicio</link>
+            <description>Bienvenido a nuestra galería de arte en línea.</description>
+        </item>
+
+        <item>
+            <title>Obras</title>
+            <link>https://aminebel20.github.io/index.html#obras</link>
+            <description>Explora nuestra colección de pinturas, esculturas y fotografías.</description>
+        </item>
+
+        <item>
+            <title>Contacto</title>
+            <link>https://aminebel20.github.io/index.html#contacto</link>
+            <description>Envíanos tus consultas y comentarios.</description>
+        </item>
+
+        <item>
+            <title>Museo del Prado</title>
+            <link>https://www.museodelprado.es/</link>
+            <description>Visita el famoso Museo del Prado.</description>
+        </item>
+    </channel>
+</rss>
